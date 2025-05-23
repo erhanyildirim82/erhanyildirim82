@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on TaleCode web site.
-- 🌱 I’m currently learning "Fullstack Web Developer"
+- 🔭 I’m currently working on secret game project.
+- 🌱 I’m currently learning "2D&3D animation"
 - 👯 I’m looking to collaborate on web&game projects.
 - 🤔 I’m looking for help with web&game projects. :)
 - 😄 I know HTML, CSS3, JavaScript but not Kung-Fu!
